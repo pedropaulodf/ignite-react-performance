@@ -1,0 +1,26 @@
+.container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 700px;
+}
+.container form {
+  margin-bottom: 10px;
+}
+.container input{
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: rgb(93, 117, 117);
+  color: white;
+  /* box-shadow: 1px 2px 5px 2px #0000001f; */
+}
+.container button{
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: darkcyan;
+  color: white;
+  /* box-shadow: 1px 2px 5px 2px #0000001f; */
+  cursor: pointer;
+  margin: 2px 5px;
+}
